@@ -1,0 +1,17 @@
+body{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+  margin: 0;
+  background-color: tomato;
+  
+      
+  }
+
+  form{
+      display: flex;
+      flex-flow: column;
+  }
+
+ 
